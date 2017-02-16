@@ -1,0 +1,23 @@
+C:\Documents and Settings\Administrator\桌面\StartIIS\bin\Debug\StartExamples.exe
+C:\Documents and Settings\Administrator\桌面\StartIIS\bin\Debug\StartExamples.pdb
+C:\Documents and Settings\Administrator\桌面\StartIIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\StartIIS\obj\Debug\StartExamples.WaitMessageForm.resources
+C:\Documents and Settings\Administrator\桌面\StartIIS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\StartIIS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\StartIIS\obj\Debug\StartExamples.exe
+C:\Documents and Settings\Administrator\桌面\StartIIS\obj\Debug\StartExamples.pdb
+C:\Documents and Settings\Administrator\桌面\StartIIS\bin\Debug\StartExamples.exe.config
+D:\learning\kuiyu-NoIIS-master\NoIIS\bin\Debug\StartExamples.exe.config
+D:\learning\kuiyu-NoIIS-master\NoIIS\obj\Debug\StartExamples.exe
+D:\learning\kuiyu-NoIIS-master\NoIIS\obj\Debug\StartExamples.pdb
+D:\learning\kuiyu-NoIIS-master\NoIIS\bin\Debug\StartExamples.exe
+D:\learning\kuiyu-NoIIS-master\NoIIS\bin\Debug\StartExamples.pdb
+D:\learning\kuiyu-NoIIS-master\NoIIS\obj\Debug\StartExamples.csprojResolveAssemblyReference.cache
+D:\learning\kuiyu-NoIIS-master\NoIIS\obj\Debug\StartExamples.WaitMessageForm.resources
+D:\learning\kuiyu-NoIIS-master\NoIIS\obj\Debug\StartExamples.csproj.GenerateResource.Cache
+D:\myproject\kuiyu-NoIIS-master\kuiyu-NoIIS-master\NoIIS\bin\Debug\StartExamples.exe.config
+D:\myproject\kuiyu-NoIIS-master\kuiyu-NoIIS-master\NoIIS\obj\Debug\StartExamples.exe
+D:\myproject\kuiyu-NoIIS-master\kuiyu-NoIIS-master\NoIIS\obj\Debug\StartExamples.pdb
+D:\newproduct\github\NoIIS2015年4月17日\NoIIS\bin\Debug\StartExamples.exe.config
+D:\newproduct\github\NoIIS2015年4月17日\NoIIS\obj\Debug\StartExamples.exe
+D:\newproduct\github\NoIIS2015年4月17日\NoIIS\obj\Debug\StartExamples.pdb
